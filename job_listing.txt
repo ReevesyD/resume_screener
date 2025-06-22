@@ -1,0 +1,57 @@
+INNOVATE TECH SOLUTIONS
+Senior Frontend Developer
+San Francisco, CA (Hybrid) | Full-Time | $85,000 - $110,000
+
+ABOUT US
+Innovate Tech Solutions is a fast-growing fintech startup revolutionizing digital banking experiences. We're building the next generation of financial tools that empower users to take control of their financial future.
+
+JOB DESCRIPTION
+We're seeking a talented Senior Frontend Developer to join our dynamic engineering team. You'll be responsible for creating exceptional user experiences across our web and mobile platforms while working closely with our design and backend teams.
+
+REQUIRED SKILLS & EXPERIENCE
+• 3+ years of professional frontend development experience
+• Expert proficiency in JavaScript (ES6+), TypeScript, HTML5, and CSS3
+• Strong experience with React and Redux for state management
+• Proficiency with modern build tools (Webpack, Vite) and package managers (npm/yarn)
+• Experience with responsive design and CSS frameworks (Tailwind CSS, Bootstrap)
+• Knowledge of RESTful APIs and GraphQL integration
+• Git version control and collaborative development workflows
+• Experience with testing frameworks (Jest, Cypress)
+• Strong understanding of web accessibility standards (WCAG)
+
+PREFERRED SKILLS & EXPERIENCE
+• Experience with Next.js and server-side rendering (SSR)
+• Knowledge of Node.js and Express for full-stack development
+• Experience with Docker containerization and deployment
+• Familiarity with AWS services (S3, CloudFront, Lambda)
+• Experience with micro-frontends architecture
+• Knowledge of Web3 technologies and blockchain integration
+• Experience with React Native for mobile development
+• Familiarity with Python for data processing tasks
+• Experience with Storybook for component documentation
+• Knowledge of performance monitoring tools (Lighthouse, Web Vitals)
+• Experience with headless CMS platforms (Contentful, Strapi)
+
+RESPONSIBILITIES
+• Develop and maintain high-quality, scalable web applications
+• Collaborate with UX/UI designers to implement responsive, pixel-perfect designs
+• Optimize applications for maximum speed and scalability
+• Write clean, maintainable code following best practices
+• Participate in code reviews and mentor junior developers
+• Integrate with backend APIs and third-party services
+• Ensure cross-browser compatibility and accessibility compliance
+• Contribute to architectural decisions and technical documentation
+
+WHAT WE OFFER
+• Competitive salary and equity package
+• Comprehensive health, dental, and vision insurance
+• Flexible PTO and work-from-home options
+• $2,000 annual learning and development budget
+• Top-tier equipment and home office setup allowance
+• Team retreats and company events
+• Opportunity to work with cutting-edge technologies
+
+TO APPLY
+Send your resume, portfolio, and a brief cover letter explaining why you're excited about fintech innovation to: careers@innovatetech.com
+
+Equal Opportunity Employer - We celebrate diversity and are committed to creating an inclusive environment for all employees.
